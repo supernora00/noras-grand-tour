@@ -1,15 +1,3 @@
-# Nora's Grand Tour V1 — Mac version
+# Nora's Grand Tour V1.1 中文版
 
-## Structure
-
-- index.html
-- assets/css/style.css
-- assets/js/app.js
-- paris/day1.html to day3.html
-- switzerland/day4.html to day9.html
-
-## Upload to GitHub
-
-Open the repository, choose Add file → Upload files, then drag the CONTENTS of this folder into the repository root.
-
-Do not upload only the ZIP file.
+解压后，把文件夹内全部内容上传到 GitHub 仓库根目录并覆盖同名文件。
