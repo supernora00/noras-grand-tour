@@ -1,21 +1,11 @@
-# Nora’s Grand Tour V3.1
+# Nora’s Grand Tour · V4
 
-V3.1 Travel Companion update:
+V4 重构了网站主导航与信息架构：
 
-- Dashboard 2.0 with date-aware journey data
-- Journey progress and current-day highlighting
-- Map Mode page for France, Switzerland and Italy
-- Quick Access floating menu on every Day page
-- Swipe and keyboard Day navigation
-- Scroll progress indicator
-- Mobile bottom navigation improvements
-- Day 2 Musée d’Orsay reservation shown at 10:30
-- Today’s Principle removed
+- 🏠 Home：当天旅行控制中心
+- 🗺️ Trip：21 天时间线
+- 🎫 Wallet：车票与门票
+- 📚 Archive：旅行结束后的回忆档案
+- ⋯ More：酒店、装备、地点与低频资料
 
-Deploy the contents of this folder to the repository root used by GitHub Pages.
-
-
-## V3.2
-- Day 页面取消 Tab/模式切换
-- 改为今日行程、地点与路线、摄影指南、票券与准备四块响应式分栏
-- 桌面端双栏，移动端按使用顺序自动排列
+Day 页面继续使用 V3.2 的响应式分栏布局。可直接部署到 GitHub Pages。
