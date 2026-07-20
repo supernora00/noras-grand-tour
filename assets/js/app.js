@@ -9,7 +9,7 @@ const dashboard={
 4:['Paris → Geneva','8月24日','TGV Paris → Geneva','08:18 出发','Stay KooooK Geneva City','Geneva','日内瓦湖与城市抵达','Z8 24–120'],
 5:['Geneva → Grindelwald','8月25日','GoldenPass 路线','经 Spiez','Eiger Lodge Easy','Grindelwald','图恩湖与列车窗景','Z8 24–120'],
 6:['Grindelwald First','8月26日','First 缆车','山地日','Eiger Lodge Easy','Grindelwald','Bachalpsee 倒影','Z8 24–120'],
-7:['Grindelwald','8月27日','山间机动日','视天气安排','Eiger Lodge Easy','Grindelwald','木屋、山谷与生活细节','GR IV / Z8'],
+7:['Jungfraujoch · Lauterbrunnen','8月27日','少女峰 + 劳特布龙嫩','按天气决定是否登顶','Eiger Lodge Easy','Grindelwald','雪原、Wengen 与施陶河瀑布','Z8 24–120 / GR IV'],
 8:['Grindelwald → Lucerne','8月28日','Luzern–Interlaken Express','景观列车','Lucerne hotel','Lucerne','湖岸与卡佩尔廊桥','GR IV'],
 9:['Lucerne → Milan','8月29日','瑞士段 + Chiasso → Milano','跨境日','iQ Hotel Milano','Milan','米兰中央车站建筑','Z8 24–120'],
 10:['Milan → Dolomites','8月30日','Milano → Bolzano','徒步团集合','Dolomites stay','Dolomites','山谷初见','Action 6 / Z8'],

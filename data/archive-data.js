@@ -1,0 +1,242 @@
+window.NORA_ARCHIVE_DATA = {
+  "journey": {
+    "id": "europe-2026",
+    "title": "Europe 2026",
+    "subtitle": "Nora’s Grand Tour",
+    "startDate": "2026-08-21",
+    "endDate": "2026-09-10"
+  },
+  "days": [
+    {
+      "day": 1,
+      "date": "2026-08-21",
+      "city": "Paris",
+      "country": "France",
+      "title": "抵达巴黎",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 2,
+      "date": "2026-08-22",
+      "city": "Paris",
+      "country": "France",
+      "title": "奥赛与塞纳河",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 3,
+      "date": "2026-08-23",
+      "city": "Paris",
+      "country": "France",
+      "title": "巴黎城市漫步",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 4,
+      "date": "2026-08-24",
+      "city": "Geneva",
+      "country": "Switzerland",
+      "title": "从巴黎到日内瓦",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 5,
+      "date": "2026-08-25",
+      "city": "Grindelwald",
+      "country": "Switzerland",
+      "title": "黄金列车与山谷初见",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 6,
+      "date": "2026-08-26",
+      "city": "Grindelwald First",
+      "country": "Switzerland",
+      "title": "First 与 Bachalpsee",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 7,
+      "date": "2026-08-27",
+      "city": "Grindelwald",
+      "country": "Switzerland",
+      "title": "山间的一天",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 8,
+      "date": "2026-08-28",
+      "city": "Lucerne",
+      "country": "Switzerland",
+      "title": "穿越山湖到卢塞恩",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 9,
+      "date": "2026-08-29",
+      "city": "Milan",
+      "country": "Italy",
+      "title": "跨越边境到米兰",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 10,
+      "date": "2026-08-30",
+      "city": "Dolomites",
+      "country": "Italy",
+      "title": "进入多洛米蒂",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 11,
+      "date": "2026-08-31",
+      "city": "Dolomites",
+      "country": "Italy",
+      "title": "多洛米蒂徒步",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 12,
+      "date": "2026-09-01",
+      "city": "Dolomites",
+      "country": "Italy",
+      "title": "山间行走",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 13,
+      "date": "2026-09-02",
+      "city": "Dolomites",
+      "country": "Italy",
+      "title": "岩壁与山径",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 14,
+      "date": "2026-09-03",
+      "city": "Tre Cime",
+      "country": "Italy",
+      "title": "Tre Cime",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 15,
+      "date": "2026-09-04",
+      "city": "Dolomites",
+      "country": "Italy",
+      "title": "多洛米蒂最后一天",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 16,
+      "date": "2026-09-05",
+      "city": "Venice",
+      "country": "Italy",
+      "title": "从山里到威尼斯",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 17,
+      "date": "2026-09-06",
+      "city": "Florence",
+      "country": "Italy",
+      "title": "威尼斯清晨与佛罗伦萨",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 18,
+      "date": "2026-09-07",
+      "city": "Florence",
+      "country": "Italy",
+      "title": "佛罗伦萨的一天",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 19,
+      "date": "2026-09-08",
+      "city": "Rome",
+      "country": "Italy",
+      "title": "抵达罗马",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 20,
+      "date": "2026-09-09",
+      "city": "Vatican City",
+      "country": "Vatican City",
+      "title": "梵蒂冈",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    },
+    {
+      "day": 21,
+      "date": "2026-09-10",
+      "city": "Rome",
+      "country": "Italy",
+      "title": "旅程的最后一天",
+      "journal": "",
+      "places": [],
+      "expense": "",
+      "favorite": false
+    }
+  ]
+};

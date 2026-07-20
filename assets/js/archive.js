@@ -9,9 +9,8 @@
     if (saved) {
       try { return JSON.parse(saved); } catch (error) { console.warn('Archive data reset:', error); }
     }
-    const response = await fetch('data/archive.json');
-    if (!response.ok) throw new Error('无法读取 Archive 数据');
-    return response.json();
+    if (window.NORA_ARCHIVE_DATA) return JSON.parse(JSON.stringify(window.NORA_ARCHIVE_DATA));
+    throw new Error('无法读取 Archive 数据');
   }
 
   function saveData() {
